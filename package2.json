@@ -1,0 +1,50 @@
+{
+  "Instance": [
+    {
+      "Component": {
+        "PRN": "87"
+      },
+      "Package": [
+        {
+          "Name": "package1",
+          "Version": "2.0"
+        },
+        {
+          "Name": "package2",
+          "Version": "4.0"
+        },
+        {
+          "Name": "package4",
+          "Version": "3.5"
+        },
+        {
+          "Name": "package5",
+          "Version": "2.0"
+        }
+      ]
+    },
+    {
+      "Component": {
+        "PRN": "88"
+      },
+      "Package": [
+        {
+          "Name": "package1",
+          "Version": "1.0"
+        },
+        {
+          "Name": "package2",
+          "Version": "3.0"
+        },
+        {
+          "Name": "package3",
+          "Version": "2.0"
+        },
+        {
+          "Name": "package5",
+          "Version": "2.0"
+        }
+      ]
+    }
+  ]
+}
